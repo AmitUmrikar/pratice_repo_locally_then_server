@@ -1,1 +1,2 @@
 hey , hi am creating repo first first and then storing in git hub
+ i have add this line through the branch i.e first branch
